@@ -56,7 +56,6 @@ namespace DevelopmentNetworkApplicationLess3
                         Console.WriteLine(userServer.ToString());
                     }
                 }
-
             }
         }
     }
